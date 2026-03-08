@@ -1,53 +1,22 @@
 {
   "todos": [
     {
-      "id": "e7df",
-      "title": "foo",
+      "id": "5476",
+      "title": "aaa",
       "isDone": false,
-      "updatedAtEpochMillis": 100000
+      "updatedAtEpochMillis": 1772946926474
     },
     {
-      "id": "4510",
-      "title": "aaa"
-    },
-    {
-      "id": "6fc9",
-      "title": "aaa"
-    },
-    {
-      "id": "043b",
-      "title": "aaa"
-    },
-    {
-      "id": "40c3",
-      "title": "aaa"
-    },
-    {
-      "id": "909d",
-      "title": "aaa",
-      "isDone": false
-    },
-    {
-      "id": "45e7",
-      "title": "aaa",
-      "isDone": false
-    },
-    {
-      "id": "ef70",
-      "title": "aaa",
-      "isDone": false
-    },
-    {
-      "id": "9e94",
-      "title": "aaa",
-      "isDone": true,
-      "updatedAtEpochMillis": 1772797542404
-    },
-    {
-      "id": "4b45",
-      "title": "aaaa",
+      "id": "b2c4",
+      "title": "bbb",
       "isDone": false,
-      "updatedAtEpochMillis": 1772797548959
+      "updatedAtEpochMillis": 1772946928356
+    },
+    {
+      "id": "854e",
+      "title": "ccc",
+      "isDone": false,
+      "updatedAtEpochMillis": 1772946929787
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
